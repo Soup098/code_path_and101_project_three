@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Bluesky app:
 
-<img src='https://imgur.com/a/mpjnzRE' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='(https://imgur.com/a/mpjnzRE)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
