@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blue Sky for Magpie</string>
+    <string name="title_text">Bluesky</string>
+    <string name="subtitle_text">For Magpies?</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="language_english">English?</string>
+    <string name="language_bird">Bird?</string>
+    <string name="description_magpie">A mean bird that some people seem to really like but they will dive-bomb you and make loud noises super early in the morning</string>
+    <string name="greeting">Come join our community of birds</string>
+</resources>
