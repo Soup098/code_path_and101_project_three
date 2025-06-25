@@ -46,7 +46,7 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![me](https://github.com/Soup098/code_path_and101_project_three/blob/master/project_three.gif))
 
 GIF created with **your chosen GIF tool**
 
