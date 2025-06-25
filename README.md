@@ -40,13 +40,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Bluesky app:
 
-<img src='(https://imgur.com/a/mpjnzRE)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+![me](https://github.com/Soup098/code_path_and101_project_three/blob/master/Screenshot.jpg)
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![me](https://github.com/Soup098/code_path_and101_project_three/blob/master/project_three.gif))
+![me](https://github.com/Soup098/code_path_and101_project_three/blob/master/project_three.gif)
 
 GIF created with ScreenToGif
 
