@@ -4,26 +4,26 @@
 
 Submitted by: **Your Name Here**
 
-Time spent: **X** hours spent in total
+Time spent: 2.5 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+Bluesky for Magpies is the next big social app for abnoxious birds!
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🐦‍⬛🤖💯
 
-## Application Features
+Buttons and birds
 
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [X] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [X] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [X] Layout uses one (1) or more ConstraintLayout
+- [X] Layout uses one (1) or more ImageView
+- [X] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
@@ -38,9 +38,9 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the Bluesky app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='[http://example.com/link/to/your/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tomsguide.com%2Fphones%2Fhow-to-join-bluesky-sign-up-twitter-alternative&psig=AOvVaw30RR3B9_ipQqw3ueSsjYQ3&ust=1750908012822000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiNheXOi44DFQAAAAAdAAAAABAE)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
@@ -48,28 +48,17 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![me](https://github.com/Soup098/code_path_and101_project_three/blob/master/project_three.gif))
 
-GIF created with **your chosen GIF tool**
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2025 Alex Surprenant
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
