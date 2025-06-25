@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Bluesky app:
 
-<img src='[http://example.com/link/to/your/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tomsguide.com%2Fphones%2Fhow-to-join-bluesky-sign-up-twitter-alternative&psig=AOvVaw30RR3B9_ipQqw3ueSsjYQ3&ust=1750908012822000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiNheXOi44DFQAAAAAdAAAAABAE)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://imgur.com/a/mpjnzRE' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
